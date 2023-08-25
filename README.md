@@ -14,24 +14,22 @@
 **Задание**
 
 
-![lxc version](https://github.com/Terekhov-A-S/Containerization-Seminar_3/blob/main/source/2023-05-14%2022-16-03.png)
-![lxc version](https://github.com/Terekhov-A-S/Containerization-Seminar_3/blob/main/source/2023-05-14%2022-24-19.png)
-![lxc version](https://github.com/Terekhov-A-S/Containerization-Seminar_3/blob/main/source/2023-05-14%2022-43-16.png)
-![lxc version](https://github.com/Terekhov-A-S/Containerization-Seminar_3/blob/main/source/2023-05-14%2022-55-49.png)
-![lxc version](https://github.com/Terekhov-A-S/Containerization-Seminar_3/blob/main/source/2023-05-14%2022-56-42.png)
-![lxc version](https://github.com/Terekhov-A-S/Containerization-Seminar_3/blob/main/source/2023-05-14%2022-57-22.png)
-![lxc version](https://github.com/Terekhov-A-S/Containerization-Seminar_3/blob/main/source/2023-05-14%2023-04-17.png)
-![lxc version](https://github.com/Terekhov-A-S/Containerization-Seminar_3/blob/main/source/2023-05-15%2000-19-37.png)
-![lxc version](https://github.com/Terekhov-A-S/Containerization-Seminar_3/blob/main/source/2023-05-15%2000-22-54.png)
-![lxc version](https://github.com/Terekhov-A-S/Containerization-Seminar_3/blob/main/source/2023-05-15%2000-23-19.png)
-![lxc version](https://github.com/Terekhov-A-S/Containerization-Seminar_3/blob/main/source/2023-05-15%2000-25-10.png)
-![lxc version](https://github.com/Terekhov-A-S/Containerization-Seminar_3/blob/main/source/2023-05-15%2000-34-14.png)
-![lxc version](https://github.com/Terekhov-A-S/Containerization-Seminar_3/blob/main/source/2023-05-15%2000-34-30.png)
+![lxc version](https://github.com/Ask1509/Containerization-Seminar_3/blob/main/source/2023-05-14%2022-16-03.png)
+![lxc version](https://github.com/Ask1509/Containerization-Seminar_3/blob/main/source/2023-05-14%2022-24-19.png)
+![lxc version](https://github.com/Ask1509/Containerization-Seminar_3/blob/main/source/2023-05-14%2022-43-16.png)
+![lxc version](https://github.com/Ask1509/Containerization-Seminar_3/blob/main/source/2023-05-14%2022-55-49.png)
+![lxc version](https://github.com/Ask1509/Containerization-Seminar_3/blob/main/source/2023-05-14%2022-56-42.png)
+![lxc version](https://github.com/Ask1509/Containerization-Seminar_3/blob/main/source/2023-05-14%2022-57-22.png)
+![lxc version](https://github.com/Ask1509/Containerization-Seminar_3/blob/main/source/2023-05-14%2023-04-17.png)
+![lxc version](https://github.com/Ask1509/Containerization-Seminar_3/blob/main/source/2023-05-15%2000-19-37.png)
+![lxc version](https://github.com/Ask1509/Containerization-Seminar_3/blob/main/source/2023-05-15%2000-22-54.png)
+![lxc version](https://github.com/Ask1509/Containerization-Seminar_3/blob/main/source/2023-05-15%2000-23-19.png)
+![lxc version](https://github.com/Ask1509/Containerization-Seminar_3/blob/main/source/2023-05-15%2000-25-10.png)
+![lxc version](https://github.com/Ask1509/Containerization-Seminar_3/blob/main/source/2023-05-15%2000-34-14.png)
+![lxc version](https://github.com/Ask1509/Containerization-Seminar_3/blob/main/source/2023-05-15%2000-34-30.png)
 
 
 
 
 
 
-
-*Подготовил студент Geek Brains* [**`Терехов Александр`**](https://gb.ru/users/7696463), containerization-Seminar_3
